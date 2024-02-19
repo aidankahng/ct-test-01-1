@@ -17,5 +17,3 @@
 6. `git checkout -b <new_branch_name>` Creates a new branch
     - `git branch` Shows existing branches
     - `git checkout <branch_name>` moves to a branch
-
-
