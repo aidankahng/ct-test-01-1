@@ -1,4 +1,4 @@
-# CodingTemple Week1 Day1
+# GitHub Test Repo
 ## This is a second level header
 
 > Quote here
