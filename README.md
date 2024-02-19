@@ -15,7 +15,7 @@
     - `<branch_name>` will usually be `main`
     - You can add `-u` tag to set up tracking
 6. `git checkout -b <new_branch_name>` Creates a new branch
-    - `git branch` Shows branches
+    - `git branch` Shows existing branches
     - `git checkout <branch_name>` moves to a branch
 
 
