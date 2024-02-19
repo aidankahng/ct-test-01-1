@@ -1,7 +1,7 @@
 # GitHub Test Repo
 ## This is a second level header
 
-> Quote here
+> This is a quote
 
 ## Git Commands:
 1. `git init` to create a new repo
@@ -14,6 +14,8 @@
     - `<remote_name>` will usually be `origin`
     - `<branch_name>` will usually be `main`
     - You can add `-u` tag to set up tracking
-
+6. `git checkout -b <new_branch_name>` Creates a new branch
+    - `git branch` Shows branches
+    - `git checkout <branch_name>` moves to a branch
 
 
